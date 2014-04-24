@@ -12,7 +12,6 @@ int num[51][10001];
 int main()
 {
     int N, M, K, A, B;
-    //freopen("in.txt", "r", stdin);
     scanf("%d", &N);
     for(int i = 1; i <= N; ++i)
     {
