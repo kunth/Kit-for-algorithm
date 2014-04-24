@@ -3,7 +3,7 @@
 //Note: http://pat.zju.edu.cn/contests/pat-b-practise/1018
 //Accepted
 
-//逻辑控制上要小心点，也不算复杂，这代码比较难看懂。。。
+//逻辑控制上要小心点
 //s 胜利， p 平局, f 负
 //数组shou分别记录两个玩家胜利的手势个数，按'B','C', 'J'顺序
 
@@ -18,7 +18,6 @@ int main()
     s1 = p1 = f1 = s2 = p2 = f2 = 0;
     memset(shou1, 0, sizeof(shou1));
     memset(shou2, 0, sizeof(shou2));
-    //freopen("in.txt", "r", stdin);
     scanf("%d", &N);
     for(int i = 0; i < N; ++i)
     {
