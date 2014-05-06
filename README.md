@@ -1,5 +1,9 @@
-backup from Evernote
+### My kit for data structure and algorithm exercises
 
-一些ACM OJ 的题解
+#### and something old backup from Evernote
 
-blog : http://blog.csdn.net/flyupliu
+Here is my blog : http://blog.csdn.net/flyupliu
+
+And welcome and feel free to contact me via army.liew#gmail.com
+
+
