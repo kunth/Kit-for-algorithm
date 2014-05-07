@@ -11,7 +11,6 @@ int main()
 {
     int N, num;
     vector<int> vec;
-    //freopen("in.txt", "r", stdin);
     while(scanf("%d", &N)==1)
     {
         vec.clear();
