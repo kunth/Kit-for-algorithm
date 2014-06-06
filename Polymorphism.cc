@@ -1,4 +1,5 @@
 //No virtual function!
+//be careful of tricks
 #include<cstdio>
 
 class A
