@@ -1,5 +1,7 @@
-#include<cstdio>
 //suppose the elems in the array are distinct
+//What's more, find any elem in such an array also takes O(lgn) time.
+#include<cstdio>
+
 int find_min_in_rotated_array(int arr[], int len)
 {
   if(len == 0)
