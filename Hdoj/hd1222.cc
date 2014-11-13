@@ -2,7 +2,7 @@
 
 int main() {
     int p, m, n, tmp;
-    freopen("in.txt", "r", stdin);
+    //freopen("in.txt", "r", stdin);
     scanf("%d", &p);
     for(int i = 0; i<p; ++i) {
 	scanf("%d %d", &m, &n);
